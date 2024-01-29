@@ -1,0 +1,19 @@
+VDP_-7
+url:<optuna.storages._journal.storage.JournalStorage object at 0x7f4d047689a0>
+Number of available CPUs : 48
+
+Optization with n_process = 8
+optuna_-7.py:109: ExperimentalWarning: JournalStorage is experimental (supported from v3.1.0). The interface can change in the future.
+  storage = JournalStorage(JournalFileStorage(log_name))
+[I 2024-01-17 11:12:04,171] A new study created in Journal with name: VDP_-7
+[I 2024-01-17 11:12:04,174] Using an existing study with name 'VDP_-7' instead of creating a new one.
+[I 2024-01-17 11:12:04,178] Using an existing study with name 'VDP_-7' instead of creating a new one.
+[I 2024-01-17 11:12:04,182] Using an existing study with name 'VDP_-7' instead of creating a new one.
+[I 2024-01-17 11:12:04,304] Using an existing study with name 'VDP_-7' instead of creating a new one.
+[I 2024-01-17 11:12:04,327] Using an existing study with name 'VDP_-7' instead of creating a new one.
+[I 2024-01-17 11:12:04,433] Using an existing study with name 'VDP_-7' instead of creating a new one.
+[I 2024-01-17 11:12:04,435] Using an existing study with name 'VDP_-7' instead of creating a new one.
+/home/kuno/my_project/venv/lib/python3.8/site-packages/joblib/externals/loky/backend/resource_tracker.py:314: UserWarning: resource_tracker: There appear to be 14 leaked semlock objects to clean up at shutdown
+  warnings.warn(
+/home/kuno/my_project/venv/lib/python3.8/site-packages/joblib/externals/loky/backend/resource_tracker.py:314: UserWarning: resource_tracker: There appear to be 2 leaked folder objects to clean up at shutdown
+  warnings.warn(
