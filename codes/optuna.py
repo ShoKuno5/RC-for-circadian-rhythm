@@ -16,7 +16,8 @@ else:
     print("ファイル名とstudy名をコマンドライン引数として入力してください。")
     sys.exit(1)
 
-filename = f'/home/kuno/my_project/VDP/VDP_analysis/generate_data/data/VDP_0.csv'
+opt_shift_hour = 0
+filename = f'data/VDP_{opt_shift_hour}.csv'
 
 # CSVファイルを読み込む
 data_loaded_with_force = pd.read_csv(filename)

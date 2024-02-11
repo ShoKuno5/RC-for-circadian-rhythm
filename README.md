@@ -19,6 +19,6 @@ RC-for-circadian-rhythm
 ```
 
 `codes`には実験に用いたコードのうち主要なものを，`results`には実験の主要な結果を示しています．
-特に，`[最適化の結果を取得するコード](codes/opt_analysis.ipynb)`は，`[最適化のコード](codes/optuna.py)`で生成する`result`ディレクトリで実行してください．
+特に，`codes/opt_analysis.ipynb`は，`codes/optuna.py`で生成する`result`ディレクトリで実行してください．
 
 なお，Pythonモジュールのnoldsを用いたデータのサンプルエントロピーと散布図・ヒートマップに関するコードと結果は，ここでは公開していません．
